@@ -24,10 +24,6 @@
 #include "ssd1306xled/ssd1306xled.h"
 
 
-
-//add2
-// https://github.com/sparkfun/SparkFun_Micro_OLED_Arduino_Library/tree/master/src/util
-
  
 volatile unsigned int adc_counter, temperature, value;
  
