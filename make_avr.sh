@@ -12,3 +12,6 @@ avr-objdump -D -m avr Termo000.hex > Termo000.asm
 
 avr-objdump -S -m avr Termo000.elf > Termo000_.asm 
 
+
+echo Done
+
